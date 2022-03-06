@@ -18,7 +18,7 @@
 
 <!-- Tech Stack -->
 <section>
-    <h3>Tech Stack:</h3>
+    <h2>Tech Stack:</h2>
         <section>
             <h5>Dev Tools</h5>
                 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -45,7 +45,7 @@
 </section>
 <!-- Github Statistics -->
 <section id="Github_Statistics">
-    <h3>Github Statistics:</h3>
+    <h2>Github Statistics:</h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiechenmc&theme=dark&hide_border=true"></a>
