@@ -7,9 +7,9 @@
 <!--
 About Me!
 -->
-<p>
+<section>
   Reach me at: jiechenmc@gmail.com
-</p>
+</section>
 <!--
 Connect With Me!
 -->
