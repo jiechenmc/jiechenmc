@@ -14,13 +14,13 @@
     <h3>Connect with me:</h3>
     <a href="https://www.linkedin.com/in/jie-chensbu/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Jie Chen" height="50" width="50" /></a>
+      alt="Jie Chen" height="40" width="40" /></a>
 </section>
 
 <!-- Tech Stack -->
 <section>
     <h3>Tech Stack:</h3>
-        <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 
 </section>
