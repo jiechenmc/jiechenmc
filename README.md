@@ -12,15 +12,21 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h3>Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/jie-chensbu/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Jie Chen" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/jie-chensbu/" target="blank"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
 <!-- Tech Stack -->
 <section>
     <h3>Tech Stack:</h3>
         <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+
+
+
 
 
 </section>
