@@ -46,7 +46,7 @@
 <!-- Github Statistics -->
 <section id="Github_Statistics">
     <h3>Github Statistics:</h3>
-    <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact" /></a>
-    <img width=30% src="https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true&count_prive=true" /></a>
-    <img width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=jiechenmc"></a>
+    <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact" /></a>
+    <img width=40% src="https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true&count_prive=true" /></a>
+    <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=jiechenmc"></a>
 </section>
