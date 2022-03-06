@@ -20,7 +20,7 @@
 <!-- Tech Stack -->
 <section>
     <h3>Tech Stack:</h3>
-        <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 
 </section>
