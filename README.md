@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    Reach me at: jiechenmc@gmail.com
+    Reach me at: **jiechenmc@gmail.com**
 </section>
 
 <!-- Connect With Me -->
