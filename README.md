@@ -12,7 +12,7 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h3>Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/jie-chensbu/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/jie-chensbu/" target="_blank"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
 <!-- Tech Stack -->
