@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jie Chen</h1>
+<h3 align="center">Student at Stony Brook University.</h3>
+<br />
 
 <!--
-**jiechenmc/jiechenmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+About Me!
 -->
+
+<!--
+Connect With Me!
+-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jie-chensbu/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Jie Chen" height="30" width="40" /></a>
+</p>
+
+<!--
+Statistics
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
