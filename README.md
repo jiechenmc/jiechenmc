@@ -7,7 +7,7 @@
 <!--
 About Me!
 -->
-<section>
+<section id="About Me">
   Reach me at: jiechenmc@gmail.com
 </section>
 <!--
