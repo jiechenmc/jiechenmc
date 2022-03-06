@@ -1,7 +1,8 @@
 <!-- Header -->
 <header>
     <h1 align="center">Hi 👋, I'm Jie Chen</h1>
-    <h3 align="center">First-Year Student at Stony Brook University. <img src="https://o.remove.bg/downloads/bebb5117-41c6-4cc2-8b35-1e850280c57c/logo_stacked_vert-removebg-preview.png"</h3>
+    <h3 align="center">First-Year Student at Stony Brook University.</h3>
+    <img src="https://o.remove.bg/downloads/c59e5fc5-a105-4dc6-9ed0-ae2ea714d347/Stony_Brook_University_seal.svg-removebg-preview.png">
 </header>
 
 <!-- About Me -->
