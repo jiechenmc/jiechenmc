@@ -1,5 +1,7 @@
+<header>
 <h1 align="center">Hi 👋, I'm Jie Chen</h1>
 <h3 align="center">Student at Stony Brook University.</h3>
+</header>
 <br />
 
 <!--
