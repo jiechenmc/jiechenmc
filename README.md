@@ -20,7 +20,7 @@
 <!-- Tech Stack -->
 <section>
     <h3>Tech Stack:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 </section>
 <!-- Github Statistics -->
 <section id="Github_Statistics">
