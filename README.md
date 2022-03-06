@@ -48,4 +48,5 @@
     <h3>Github Statistics:</h3>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true&count_prive=true" /></a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact" /></a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiechenmc"></a>
 </section>
