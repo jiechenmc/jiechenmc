@@ -2,7 +2,7 @@
 <header>
     <h1 align="center">Hi 👋, I'm Jie Chen</h1>
     <h3 align="center">First-Year Student at Stony Brook University.</h3>
-    <img src="https://o.remove.bg/downloads/c59e5fc5-a105-4dc6-9ed0-ae2ea714d347/Stony_Brook_University_seal.svg-removebg-preview.png">
+    <img align="center" height="50" width="50" src="https://o.remove.bg/downloads/c59e5fc5-a105-4dc6-9ed0-ae2ea714d347/Stony_Brook_University_seal.svg-removebg-preview.png">
 </header>
 
 <!-- About Me -->
