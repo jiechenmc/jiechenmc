@@ -14,7 +14,7 @@
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
     <a href="https://www.linkedin.com/in/jiechen-sbu/"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <i class="fa-brands fa-linkedin"></i>
+        <a href="https://www.hackerrank.com/jiechenmc"><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png" /></a>
 </section>
 
 
