@@ -13,8 +13,8 @@
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
-    <a href="https://www.linkedin.com/in/jiechen-sbu/"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+    <a href="https://www.linkedin.com/in/jiechen-sbu/"><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.hackerrank.com/jiechenmc"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" /></a>
 </section>
 
 
