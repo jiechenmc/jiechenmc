@@ -16,9 +16,9 @@
     <a href="https://www.linkedin.com/in/jie-chensbu/"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
-<!--
+
 <!-- Tech Stack -->
-<section>
+<!-- <section>
     <h2>Tech Stack:</h2>
         <section>
             <h5>Dev Tools</h5>
@@ -45,8 +45,8 @@
                 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
         </section>
-</section>
--->
+</section> -->
+
 <!-- Github Statistics -->
 <section id="Github_Statistics">
     <h2>Github Statistics:</h2>
