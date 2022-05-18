@@ -14,7 +14,8 @@
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
     <a href="https://www.linkedin.com/in/jiechen-sbu/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-    <a href="https://www.hackerrank.com/jiechenmc"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" /></a>
+    <a href="https://www.hackerrank.com/jiechenmc/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" /></a>
+    <a href="https://leetcode.com/jiechenmc/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
 </section>
 
 
