@@ -14,7 +14,7 @@
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
     <a href="https://www.linkedin.com/in/jiechen-sbu/"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 </section>
 
 
