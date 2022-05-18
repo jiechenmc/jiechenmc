@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/jie-chensbu/"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </section>
 
-/*
+<!--
 <!-- Tech Stack -->
 <section>
     <h2>Tech Stack:</h2>
@@ -46,7 +46,7 @@
                 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
         </section>
 </section>
-*/
+-->
 <!-- Github Statistics -->
 <section id="Github_Statistics">
     <h2>Github Statistics:</h2>
