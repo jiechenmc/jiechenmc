@@ -1,6 +1,6 @@
 <!-- Header -->
 <header>
-    <h1 align="center">Hi 👋, I'm Jie Chen</h1>
+    <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Jie+Chen)](https://git.io/typing-svg)</h1>
     <h3 align="center">First-Year Student at Stony Brook University.</h3>
 </header>
 
