@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    -I'm interested in Web Development, Software Engineering, and Data Engineering. <br />
+    -I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
     -Reach me at: <a href="mailto:jiechenmc@gmail.com">jiechenmc@gmail.com</a>
 </section>
 
