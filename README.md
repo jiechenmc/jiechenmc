@@ -6,8 +6,9 @@
 
 <!-- About Me -->
 <section id="About_Me">
-    -I'm interested in Data Engineering, Production Engineering, and Software Engineering. <br />
-    -Reach me at: <a href="mailto:jiechenmc@gmail.com">jiechenmc@gmail.com</a>
+    -I want to learn more about infrastructure and how to manage them! <br />
+    -Reach me at: <a href="mailto:jiechenmc@gmail.com">jiechenmc@gmail.com</a> <br />
+    -Currently practicing for AWS Cloud Practitioner
 </section>
 
 <!-- Connect With Me -->
