@@ -4,6 +4,7 @@
     <h3 align="center">Second-Year Student at Stony Brook University.</h3>
 </header>
 
+<Section> About Me </Section>
 
 ```python
 class Jie:
