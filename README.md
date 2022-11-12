@@ -10,6 +10,24 @@
     -Reach me at: <a href="mailto:jiechenmc@gmail.com">jiechenmc@gmail.com</a> <br />
 </section>
 
+```python
+class Jie:
+  def __init__(self):
+      self.name = "Jie Chen"
+      self.hometown = "Fuzhou, China"
+      self.college = "Stony Brook University"
+      self.expected_graduation_date = "May 2025"
+      self.interests_and_hobbies =
+      [
+          "Gaming 🎮",
+          "Eating 😋",
+          "Data Visualization 📊",
+          "Cloud Infrastructure ☁️",
+          "Automation 🤖",
+      ]
+```
+
+
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h2>Connect with me:</h2>
