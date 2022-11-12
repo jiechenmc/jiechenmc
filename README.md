@@ -7,9 +7,6 @@
 <!-- About Me -->
 <section id="About_Me">
     -I want to learn more about infrastructure and how to manage them! <br />
-    -Reach me at: <a href="mailto:jiechenmc@gmail.com">jiechenmc@gmail.com</a> <br />
-</section>
-
 ```python
 class Jie:
   def __init__(self):
@@ -26,6 +23,8 @@ class Jie:
           "Automation 🤖",
       ]
 ```
+</section>
+
 
 
 <!-- Connect With Me -->
