@@ -4,9 +4,7 @@
     <h3 align="center">Second-Year Student at Stony Brook University.</h3>
 </header>
 
-<!-- About Me -->
-<section id="About_Me">
-    -I want to learn more about infrastructure and how to manage them! <br />
+
 ```python
 class Jie:
   def __init__(self):
@@ -23,9 +21,6 @@ class Jie:
           "Automation 🤖",
       ]
 ```
-</section>
-
-
 
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
