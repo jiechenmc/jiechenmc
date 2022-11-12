@@ -25,7 +25,7 @@ class Jie:
 
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
-    <h2>Connect with me:</h2>
+    <h2 align="center">Connect with me:</h2>
     <a href="https://www.linkedin.com/in/jiechen-sbu/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
     <a href="https://www.hackerrank.com/jiechenmc/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" /></a>
     <a href="https://leetcode.com/jiechenmc/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
@@ -64,7 +64,7 @@ class Jie:
 
 <!-- Github Statistics -->
 <section id="Github_Statistics">
-    <h2>Github Statistics:</h2>
+    <h2 align="center">Github Statistics:</h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiechenmc&layout=compact&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiechenmc&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiechenmc&theme=dark&hide_border=true"></a>
