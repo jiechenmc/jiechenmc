@@ -1,7 +1,7 @@
 <!-- Header -->
 <header>
     <h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=1000&color=a6adba&center=true&vCenter=true&width=435&lines=Hello+I%27m+Jie!;My+interests+are%3A;Software+Engineering%F0%9F%96%A5%EF%B8%8F...;Site+Reliability+Engineering%F0%9F%92%BE...;And" /></h1>
-    <h3 align="center">Second-Year Student at Stony Brook University.</h3>
+    <h3 align="center">Third-Year Student at Stony Brook University.</h3>
 </header>
 
 <Section> <h2 align="center">About Me</h2> </Section>
