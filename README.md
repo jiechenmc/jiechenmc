@@ -26,7 +26,7 @@ class Jie:
 <!-- Connect With Me -->
 <section id="Connect_With_Me">
     <h2 align="center">Connect with me:</h2>
-    <a align="center" href="https://www.linkedin.com/in/jiechen-sbu/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a align="center" href="https://www.linkedin.com/in/jie-chen-sbu/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
     <a align="center" href="https://jiechen.dev/"><img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" /></a>
 </section>
 
